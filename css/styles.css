@@ -1,0 +1,22 @@
+@font-face{
+	font-family: "Star-Jedi";
+	src: url('../fonts/starjedi.ttf');
+}
+
+*{
+	font-family: "Star-Jedi";
+}
+
+.bg_dark{
+    background-color: black;
+}
+
+.logo{
+    max-width: 220px;
+    margin: 40px 10px 40px 10px;
+    padding: 10px;
+}
+
+.info_color{
+    color: blue;
+}
